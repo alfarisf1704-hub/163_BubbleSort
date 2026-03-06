@@ -13,6 +13,11 @@ void input()
 
         if (n <= 20)
         {
+            break;
+        }
+        else
+        {
+            cout << "Error : Maksimal input array adalah 20\n";
         }
     }
 }
